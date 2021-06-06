@@ -11,6 +11,7 @@ a)Strategy 1: using central tendencies of data for imputation: Use Mean, Median 
 b)Strategy 2: using KNN: Use KNNImputerfrom sklearn, to impute the missing values<br> 
 •Perform Linear regression fit for weight prediction using the modified datasets. <br>
 Compare and comment on the results. <br>
+<br>
 Part II: Demonstrate Outliers on Plots<br>
 <br>
 •Use the modified Fish_Modified.csv dataset.<br>
