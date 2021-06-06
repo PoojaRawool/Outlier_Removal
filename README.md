@@ -1,5 +1,6 @@
 # Outlier_Removal
-Part I : Outlier Removal Techniques<b>
+Part I : Outlier Removal Techniques
+<br>
 1) Use Fish.csv to fit a basic Linear Regression Fit to predict the weight of the fish using remaining attributes.<br>
 2) Use the Fish_Missing.csv dataset<br>
 A.Perform basic EDA<br>
@@ -10,7 +11,7 @@ a)Strategy 1: using central tendencies of data for imputation: Use Mean, Median 
 b)Strategy 2: using KNN: Use KNNImputerfrom sklearn, to impute the missing values<br> 
 •Perform Linear regression fit for weight prediction using the modified datasets. <br>
 Compare and comment on the results. <br>
-Part II: Demonstrate Outliers on Plots<b><br>
+Part II: Demonstrate Outliers on Plots<br>
 •Use the modified Fish_Modified.csv dataset.<br>
 •Combine the three Length attributes into a single attribute<br>
 •Visualize the dataset scatter by species using Matplotlib/Seaborn/Plotly<br>
