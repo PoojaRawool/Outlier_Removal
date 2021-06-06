@@ -12,6 +12,7 @@ b)Strategy 2: using KNN: Use KNNImputerfrom sklearn, to impute the missing value
 •Perform Linear regression fit for weight prediction using the modified datasets. <br>
 Compare and comment on the results. <br>
 Part II: Demonstrate Outliers on Plots<br>
+<br>
 •Use the modified Fish_Modified.csv dataset.<br>
 •Combine the three Length attributes into a single attribute<br>
 •Visualize the dataset scatter by species using Matplotlib/Seaborn/Plotly<br>
